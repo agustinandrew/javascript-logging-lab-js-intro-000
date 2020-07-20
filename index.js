@@ -1,6 +1,3 @@
 console.error("HALP!")
-console.log("Hello World!"
-console.warn("Time to die!"
-console.log("Hello World")
-console.warn("Time to die!")
-console.log("I would be a logger.")
+console.log("Time to live")
+console.warn("Be the best you can be!")
